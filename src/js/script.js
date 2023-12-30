@@ -23,7 +23,7 @@ function clickWeb(work) {
     else if (work == 2) url = 'https://gsxgrxhnupzmx1izaze8yw.on.drv.tw/www.fonamentsI.com/Fonaments.html';
     else if (work == 3) url = 'https://gilbert46.github.io/DWG/';
     else if (work == 4) url = 'https://gilbert46.github.io/reposition/';
-    else if (work == 5) url = 'https://gilbert46.github.io/webgame/';
+    else if (work == 5) url = 'https://gilbertvs.github.io/gamepage/';
     else if (work == 6) url = 'https://gilbert46.github.io/maps_inter9/';
     else if (work == 7) url = 'https://gilbert46.github.io/Ex2_Ecommerc/';
     else if (work == 8) url = 'https://gilbert46.github.io/slotmachine/';
